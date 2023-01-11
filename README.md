@@ -23,6 +23,7 @@
 | [Shell 00](https://github.com/mpotthar/42_piscine_shell_00)   | Shell | macOS| ![mpotthar's 42 C Piscine Shell 00 Score](https://badge42.vercel.app/api/v2/clcj8mgxr00060fjvo8cuu3fz/project/2674182) |
 | [C00](https://github.com/mpotthar/42_piscine_C00)   | C | macOS| ![mpotthar's 42 C Piscine C 00 Score](https://badge42.vercel.app/api/v2/clcj8mgxr00060fjvo8cuu3fz/project/2681472) |
 | [C01](https://github.com/mpotthar/42_piscine_C01)   | C | macOS| ![mpotthar's 42 C Piscine C 01 Score](https://badge42.vercel.app/api/v2/clcj8mgxr00060fjvo8cuu3fz/project/2692674) |
+| [C02](https://github.com/mpotthar/42_piscine_C02)   | C | macOS| ![mpotthar's 42 C Piscine C 02 Score](https://badge42.vercel.app/api/v2/clcj8mgxr00060fjvo8cuu3fz/project/2696651) |
 
 
 <!--
