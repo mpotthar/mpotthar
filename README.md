@@ -10,13 +10,17 @@
 |:------:|:-------:|:--------------------------:|:--------:|:--------:|:--:|
 | 0      | [libft](https://github.com/mpotthar/42_libft)   | Creating your own library   | C        | macOS| ![mpotthar's 42 Libft Score](https://badge42.vercel.app/api/v2/clcj8mgxr00060fjvo8cuu3fz/project/2911852) |
 | 1      | [ft_printf](https://github.com/mpotthar/42_ft_printf)  |Coding your own printf      |C        | macOS| ![mpotthar's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clcj8mgxr00060fjvo8cuu3fz/project/2925563) |
-| 1      | [get_next_line](https://github.com/mpotthar/42_get_next_line)  |Coding your own printf      |C        | macOS| ![mpotthar's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clcj8mgxr00060fjvo8cuu3fz/project/2927453) |
+| 1      | [get_next_line](https://github.com/mpotthar/42_get_next_line)  |function for returning next line of file      |C        | macOS| ![mpotthar's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clcj8mgxr00060fjvo8cuu3fz/project/2927453) |
 
 ## 42 Piscine
 
 ![mpotthar's 42 stats](https://badge42.vercel.app/api/v2/clcj8mgxr00060fjvo8cuu3fz/stats?cursusId=9&coalitionId=piscine)
 
 ### Projects
+
+| Project | Brief description | Language | OS | Status |
+|:-------:|:--------------------------:|:--------:|:--------:|:--:|
+[Shell 00](https://github.com/mpotthar/42_piscine_shell_00)   | Basic usage of shell, git, ...   |         | macOS| ![mpotthar's 42 C Piscine Shell 00 Score](https://badge42.vercel.app/api/v2/clcj8mgxr00060fjvo8cuu3fz/project/2674182) |
 
 <!--
 **mpotthar/mpotthar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
