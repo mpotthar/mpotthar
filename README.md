@@ -25,6 +25,7 @@
 | [C01](https://github.com/mpotthar/42_piscine_C01)   | C | macOS| ![mpotthar's 42 C Piscine C 01 Score](https://badge42.vercel.app/api/v2/clcj8mgxr00060fjvo8cuu3fz/project/2692674) |
 | [C02](https://github.com/mpotthar/42_piscine_C02)   | C | macOS| ![mpotthar's 42 C Piscine C 02 Score](https://badge42.vercel.app/api/v2/clcj8mgxr00060fjvo8cuu3fz/project/2696651) |
 | [C03](https://github.com/mpotthar/42_piscine_C03)   | C | macOS| ![mpotthar's 42 C Piscine C 03 Score](https://badge42.vercel.app/api/v2/clcj8mgxr00060fjvo8cuu3fz/project/2705611) |
+| [C04](https://github.com/mpotthar/42_piscine_C04)   | C | macOS| ![mpotthar's 42 C Piscine C 04 Score](https://badge42.vercel.app/api/v2/clcj8mgxr00060fjvo8cuu3fz/project/2713968) |
 
 <!--
 **mpotthar/mpotthar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
