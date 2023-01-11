@@ -20,7 +20,9 @@
 
 | Project | Brief description | Language | OS | Status |
 |:-------:|:--------------------------:|:--------:|:--------:|:--:|
-[Shell 00](https://github.com/mpotthar/42_piscine_shell_00)   | Basic usage of shell, git, ...   |         | macOS| ![mpotthar's 42 C Piscine Shell 00 Score](https://badge42.vercel.app/api/v2/clcj8mgxr00060fjvo8cuu3fz/project/2674182) |
+| [Shell 00](https://github.com/mpotthar/42_piscine_shell_00)   | Basic usage of shell, git, ...   | Shell | macOS| ![mpotthar's 42 C Piscine Shell 00 Score](https://badge42.vercel.app/api/v2/clcj8mgxr00060fjvo8cuu3fz/project/2674182) |
+| [C00](https://github.com/mpotthar/42_piscine_C00)   | Intro to C   | C | macOS| ![mpotthar's 42 C Piscine C 00 Score](https://badge42.vercel.app/api/v2/clcj8mgxr00060fjvo8cuu3fz/project/2681472) |
+
 
 <!--
 **mpotthar/mpotthar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
