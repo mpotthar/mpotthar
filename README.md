@@ -18,10 +18,11 @@
 
 ### Projects
 
-| Project | Brief description | Language | OS | Status |
-|:-------:|:--------------------------:|:--------:|:--------:|:--:|
-| [Shell 00](https://github.com/mpotthar/42_piscine_shell_00)   | Basic usage of shell, git, ...   | Shell | macOS| ![mpotthar's 42 C Piscine Shell 00 Score](https://badge42.vercel.app/api/v2/clcj8mgxr00060fjvo8cuu3fz/project/2674182) |
-| [C00](https://github.com/mpotthar/42_piscine_C00)   | Intro to C   | C | macOS| ![mpotthar's 42 C Piscine C 00 Score](https://badge42.vercel.app/api/v2/clcj8mgxr00060fjvo8cuu3fz/project/2681472) |
+| Project | Language | OS | Status |
+|:-------:|:--------------------------:|:--------:|:--:|
+| [Shell 00](https://github.com/mpotthar/42_piscine_shell_00)   | Shell | macOS| ![mpotthar's 42 C Piscine Shell 00 Score](https://badge42.vercel.app/api/v2/clcj8mgxr00060fjvo8cuu3fz/project/2674182) |
+| [C00](https://github.com/mpotthar/42_piscine_C00)   | C | macOS| ![mpotthar's 42 C Piscine C 00 Score](https://badge42.vercel.app/api/v2/clcj8mgxr00060fjvo8cuu3fz/project/2681472) |
+| [C01](https://github.com/mpotthar/42_piscine_C01)   | C | macOS| ![mpotthar's 42 C Piscine C 01 Score](https://badge42.vercel.app/api/v2/clcj8mgxr00060fjvo8cuu3fz/project/2692674) |
 
 
 <!--
