@@ -1,5 +1,15 @@
 # Hi there 👋
 
+I'm a student at 42 Wolfsburg, a tuition-free software engineering school that offers a cutting-edge gamified curriculum and a supportive ecosystem that nurtures an entrepreneurial spirit. I'm passionate about coding and learning new technologies.
+
+Before joining 42 Wolfsburg, I completed an apprenticeship as a computer science expert for system integration. I gained valuable experience in designing, installing and maintaining IT systems and networks.
+
+At 42 Wolfsburg, I'm learning coding from scratch in C, data structures, algorithms, and other fundamental concepts of computer science. I'm also working on various projects with my peers, using a peer-to-peer and project-based learning approach. I love the challenge and the freedom that 42 Wolfsburg offers me.
+
+I'm interested in the future of mobility, industry 4.0, and cybersecurity. I think these are exciting fields that require innovative solutions and creative thinking. I'm looking forward to exploring them more in depth as I progress through the 42 Wolfsburg curriculum.
+
+Feel free to check out my projects and connect with me on [LinkedIn](https://www.linkedin.com/in/marcelpottharst/). I'm always open to feedback, collaboration, and new opportunities. Thanks for visiting my profile!
+
 ## 42 Core
 
 ![mpotthar's 42 stats](https://badge42.vercel.app/api/v2/clcj8mgxr00060fjvo8cuu3fz/stats?cursusId=21&coalitionId=151)
