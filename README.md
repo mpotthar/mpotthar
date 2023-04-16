@@ -8,7 +8,9 @@ At 42 Wolfsburg, I'm learning coding from scratch in C, data structures, algorit
 
 I'm interested in the future of mobility, industry 4.0, and cybersecurity. I think these are exciting fields that require innovative solutions and creative thinking. I'm looking forward to exploring them more in depth as I progress through the 42 Wolfsburg curriculum.
 
-Feel free to check out my projects and connect with me on [LinkedIn](https://www.linkedin.com/in/marcelpottharst/). I'm always open to feedback, collaboration, and new opportunities. Thanks for visiting my profile!
+I love working on projects with my peers and solving real-world problems with code. Feel free to check out my projects and connect with me on [LinkedIn](https://www.linkedin.com/in/marcelpottharst/). I'm always open to feedback, collaboration, and new opportunities. Thanks for visiting my profile!
+
+
 
 ## 42 Core
 
