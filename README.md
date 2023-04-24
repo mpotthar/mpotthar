@@ -24,7 +24,7 @@ I love working on projects with my peers and solving real-world problems with co
 | 1      | [ft_printf](https://github.com/mpotthar/42_ft_printf)  |Coding your own printf      |C        | macOS| ![mpotthar's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clcj8mgxr00060fjvo8cuu3fz/project/2925563) |
 | 1      | [get_next_line](https://github.com/mpotthar/42_get_next_line)  |function for returning next line of file      |C        | macOS| ![mpotthar's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clcj8mgxr00060fjvo8cuu3fz/project/2927453) |
 | 1      | [Born2beroot](https://github.com/mpotthar/42_Born2beroot)      |  creating a virtual machine in VirtualBox      |     |    | ![mpotthar's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clcj8mgxr00060fjvo8cuu3fz/project/2950377) |
-| 2      | [Push_Swap](https://github.com/mpotthar/42_push_swap)      |  sorting data on a stack, with a limited set of instructions, using the lowest possible number of actions |C |macOS | WiP |
+| 2      | [Push_Swap](https://github.com/mpotthar/42_push_swap)      |  sorting data on a stack, with a limited set of instructions, using the lowest possible number of actions |C |macOS | ![mpotthar's 42 push_swap Score](https://badge42.vercel.app/api/v2/clcj8mgxr00060fjvo8cuu3fz/project/3065568) |
 
 
 ## 42 Piscine
