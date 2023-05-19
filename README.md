@@ -27,7 +27,7 @@ I love working on projects with my peers and solving real-world problems with co
 | 2      | [Push_Swap](https://github.com/mpotthar/42_push_swap)      |  sorting data on a stack, with a limited set of instructions, using the lowest possible number of actions |C |macOS | ![mpotthar's 42 push_swap Score](https://badge42.vercel.app/api/v2/clcj8mgxr00060fjvo8cuu3fz/project/3065568) |
 | 2      | [Pipex](https://github.com/mpotthar/42_pipex)      |  Redirections and Pipes |C |macOS | ![mpotthar's 42 pipex Score](https://badge42.vercel.app/api/v2/clcj8mgxr00060fjvo8cuu3fz/project/3075624) |
 | 2      | [So_Long](https://github.com/mpotthar/42_so_long)      |  2D game with libmlx |C |macOS | ![mpotthar's 42 so_long Score](https://badge42.vercel.app/api/v2/clcj8mgxr00060fjvo8cuu3fz/project/2988013) |
-| 3      | [Philosophers](https://github.com/mpotthar/42_philosophers)      |  basics of threading a process, create threads, discover mutexes |C |macOS | WIP |
+| 3      | [Philosophers](https://github.com/mpotthar/42_philosophers)      |  basics of threading a process, create threads, discover mutexes |C |macOS | ![mpotthar's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clcj8mgxr00060fjvo8cuu3fz/project/3097348) |
 
 
 ## 42 Piscine
