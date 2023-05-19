@@ -14,7 +14,7 @@ I love working on projects with my peers and solving real-world problems with co
 
 ## 42 Core
 
-![mpotthar's 42 stats](https://badge42.vercel.app/api/v2/clcj8mgxr00060fjvo8cuu3fz/stats?cursusId=21&coalitionId=151)
+![mpotthar's 42 stats](https://badge42.vercel.app/api/v2/clcj8mgxr00060fjvo8cuu3fz/stats?cursusId=21&coalitionId=354)
 
 ### Projects
 
